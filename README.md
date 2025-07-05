@@ -12,7 +12,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-##ask Description: Creating a Chat Application in Java Using IntelliJ IDEA
+##Task Description: Creating a Chat Application in Java Using IntelliJ IDEA
 
 The purpose of this task is to design and implement a functional and interactive chat application using Java as the primary programming language within the IntelliJ IDEA development environment. This project aims to simulate real-time communication between two or more users over a network using client-server architecture. The application should support sending and receiving messages, displaying chat history, and managing multiple clients simultaneously through proper use of sockets and threading.##
 
